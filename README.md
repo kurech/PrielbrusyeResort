@@ -1,4 +1,4 @@
-demo ekz gilyazov 4339
+demo exam gilyazov 4339
 
 login window^
 
